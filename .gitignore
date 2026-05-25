@@ -46,7 +46,4 @@ app.*.map.json
 backend/requirements.txt
 backend/requirements-dev.txt
 
-pubspec.yaml
-pubspec.lock
-lib/models/
-lib/services/
+
