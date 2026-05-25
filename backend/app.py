@@ -3,10 +3,7 @@ from flask_cors import CORS
 from config import ensure_directories
 from ai.summarizer import summarize_text
 
-app = Flask(__name__)
-CORS(app)
 
-ensure_directories()
 
 # ============================================================
 # HEALTH CHECK

@@ -1,17 +1,5 @@
-# Miscellaneous
-*.class
-*.log
-*.pyc
-*.swp
-.DS_Store
-.atom/
-.build/
-.buildlog/
-.history
-.svn/
-.swiftpm/
-migrate_working_dir/
 
+<<<<<<< HEAD
 # IntelliJ related
 *.iml
 *.ipr
@@ -47,3 +35,5 @@ backend/requirements.txt
 backend/requirements-dev.txt
 
 
+=======
+>>>>>>> 8c58bbf95ed472eede6286dc589a2c51b4bd8d58
